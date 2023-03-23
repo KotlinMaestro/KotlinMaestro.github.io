@@ -1,0 +1,9 @@
+.watermark {
+    background-image: url('../../public/about.png');
+    background-repeat: repeat;
+    background-size: 600px 700px; /* adjust the size of your watermark */
+    opacity: 0.2; /* adjust the opacity of your watermark */
+}
+.fonteer{
+    font-family: "Roboto Slab";
+}

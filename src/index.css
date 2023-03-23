@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-background {
+    background-image: url("../public/img/background.jpg");
+}
+.co-background{
+    background-image: url("../public/img/curves.jpg");
+}
+.dg-background{
+    background-image: url("../public/img/imagen.jpg");
+}
+@layer base {
+    html {
+        font-family: Proxima Nova, system-ui, Roboto Slab,  sans-serif;
+    }
+}

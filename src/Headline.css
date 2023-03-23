@@ -1,0 +1,18 @@
+.headline-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headline {
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+    font-family: "Roboto Slab";
+}
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+}
